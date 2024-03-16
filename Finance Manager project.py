@@ -57,7 +57,9 @@ def main():
             print("Thank you, Please come again")
             break
         else:
-            print("Invalid choice. Please try again.")
+            print("Please enter a valid choice number.!!!!")
+            
+print("Welcome to Finance Manager")
 
 if __name__ == "__main__":
     main()
